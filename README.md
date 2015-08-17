@@ -1,8 +1,6 @@
 # jupyter-ijavascript
-Docker container which run jupyter with ijavascript enabled
 
-This docker file is based on `jupyter/notebook` and add the [ijavascript](https://github.com/n-riesco/ijavascript) kernel.
-
+This repository contains a Dockerfile, which adds the [ijavascript](https://github.com/n-riesco/ijavascript) kernel to the `jupyter/notebook` base image.
 
 
 ## Copyright & license
